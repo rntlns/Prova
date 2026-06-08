@@ -48,6 +48,8 @@ Durante o desenvolvimento foram utilizados:
 * Estruturas condicionais (`if`, `elif` e `else`).
 * Tratamento de erros com `try` e `except`.
 
+* PROVA FEITA EM DUPLA POR: RENATA LINS MARINHO DOS SANTOS E GABRIELA ARAUJO
+
 - Objetivo
 
 O objetivo do projeto foi praticar conceitos básicos da linguagem Python, como manipulação de listas, dicionários, laços de repetição e estruturas condicionais, aplicando-os em uma situação real de gerenciamento de clientes.
